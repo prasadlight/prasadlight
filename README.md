@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Prasad👋
 
-<!--
-**prasadlight/prasadlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student & backend developer  
+Building algorithmic trading systems and backend infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I work on
+- Algorithmic trading systems
+- Real-time market data (WebSockets)
+- Backend APIs & system design
+- Backtesting & strategy logic
+
+---
+
+### 🛠 Tech I use
+- Python
+- REST APIs
+- WebSockets
+- Docker
+- MySQL / Redis
+- Linux
+
+---
+
+### 🚀 Current focus
+- Low-latency trading infra
+- Cleaner strategy architecture
+- Better backtesting metrics
+
+---
+
