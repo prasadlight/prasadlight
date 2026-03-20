@@ -37,13 +37,6 @@ I am a software engineer dedicated to architecting scalable, event-driven system
 
 ---
 
-### Languages
-
-🇬🇧 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
-
----
-
----
 
 ### Core Competencies
 
