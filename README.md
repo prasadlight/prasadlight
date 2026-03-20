@@ -16,6 +16,33 @@ I am a software engineer dedicated to architecting scalable, event-driven system
 | **Data & Caching** | MySQL, Redis (Pub/Sub & Caching) |
 | **DevOps & Infra** | Docker, Linux System Administration, Shell Scripting |
 
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,dart&theme=dark" alt="Languages"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,redis,firebase&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,nginx&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,opencv,jupyter,numpy&theme=dark" alt="AI / ML"/>
+
+---
+
+### Languages
+
+🇬🇧 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+
+---
+
 ---
 
 ### Core Competencies
